@@ -1,7 +1,4 @@
-//Variables de référence
 
-/*---------------------------------*/
-//Fonctions de référence
 
 var text="https://www.amxa.ch";
 
